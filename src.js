@@ -1,0 +1,1 @@
+function o(u){window.open("http://www.team-des-fra.fr/CoM/bf3.php?p="+u);}var a=prompt("BF3 CheatOMeter: Enter the name of the individual to look for..."); if(a){o(a);}
